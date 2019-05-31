@@ -1,9 +1,9 @@
 body {
-	background-color: RedColor;
+	background-color: lightGrey;
 }
 
 h1 {
-	background-color: BrightRed;
+	background-color: lightRed;
 	color: grey;
 	font-size: 50px;
 	font-weight: bold;
